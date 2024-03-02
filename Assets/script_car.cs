@@ -13,7 +13,7 @@ public class script_car : MonoBehaviour
     void Start()
     {
         print("Hello World");
-        helloText.GetComponent<TextMeshPro>().text = "Bye!!";
+        helloText.GetComponent<TextMeshPro>().text = "Bye bye!";
     }
 
     // Update is called once per frame
